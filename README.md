@@ -4,6 +4,7 @@ StarNotary is  a decentralized application for Ethereum blockchain that is used 
 StarNotary DApp consists of  a smart contract deployed on Rinkeby Ethereum testnet  and a front-end  part to interact with the smart contract.
 
 ERC 721 tokens name:  "StarToken",
+
 ERC 721 symbol: "STR",
 
 Front-end: JavaScript and HTML,
