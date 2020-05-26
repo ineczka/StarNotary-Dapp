@@ -23,7 +23,7 @@ Truffle v5.1.24
 
 OpenZeppelin-solidity  v2.1.2
 
-Node v12.16.3
+Node v10.20.1
 
 Solidity v0.5.16
 
